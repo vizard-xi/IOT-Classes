@@ -4,6 +4,12 @@ def func(min,max):
 		for i in range(min,max,2):
 			list.append(i)
 		return list
+
+
+
+
+
+		
 	else:
 		min = min +1
 		for i in range(min,max,2):
